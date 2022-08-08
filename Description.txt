@@ -1,0 +1,2 @@
+--This is a pattern printing task.
+--You will ask user two numbers: one for number of rows in pattern and another one for selecting type of pattern.
